@@ -15,3 +15,5 @@ I am also working my way through the [**Full Stack Open**](https://fullstackopen
 ### Certificates 🏆
 
 * [University of Helsinki MOOC - Java Programming Part 1](https://certificates.mooc.fi/validate/xgg8x6qj2e)
+
+<img src="https://media.giphy.com/media/ehIc2Rb3HRrb1YiQBr/giphy.gif" width="300">
