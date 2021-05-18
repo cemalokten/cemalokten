@@ -12,12 +12,12 @@ I am currently applying to the [**Founders and Coders**](https://www.foundersand
 
 I am also working my way through the [**Full Stack Open**](https://fullstackopen.com/en/) program.
 
-### Certificates 🏆
+#### Certificates 🏆
 
 * [University of Helsinki MOOC - Java Programming Part 1](https://certificates.mooc.fi/validate/xgg8x6qj2e)
 
 
-### Profile Links 🔗
+#### Profile Links 🔗
 
 * [FreeCodeCamp](https://www.freecodecamp.org/cemalokten)
 * [CodeWars](https://www.codewars.com/users/cemalokten)
