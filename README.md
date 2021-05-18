@@ -8,7 +8,7 @@ In my free time I like to go climbing 🧗🏼‍♂️ and walking, to read �
 
 #### Current Status 💻
 
-I am currently applying to the [**Founders and Coders**](https://www.foundersandcoders.com/) program. You can view my application website [here](http://cemalokten.github.io/).
+I am currently applying to the [**Founders and Coders**](https://www.foundersandcoders.com/) program. You can view my [**application website here**](http://cemalokten.github.io/).
 
 I am also working my way through the [**Full Stack Open**](https://fullstackopen.com/en/) program.
 
