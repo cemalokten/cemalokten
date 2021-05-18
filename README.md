@@ -19,5 +19,5 @@ I am also working my way through the [**Full Stack Open**](https://fullstackopen
 
 ### Links 🔗
 
-* [FREECODECAMP PROFILE](https://www.freecodecamp.org/cemalokten)
-* [CODEWARS PROFILE](https://www.codewars.com/users/cemalokten)
+* [FreeCodeCamp](https://www.freecodecamp.org/cemalokten)
+* [CodeWars](https://www.codewars.com/users/cemalokten)
