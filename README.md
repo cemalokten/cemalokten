@@ -1,16 +1,16 @@
-### Hi there 👋
+ <img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="300"> 
 
-<!--
-**cemalokten/cemalokten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Cemal (Je-mal), I live in South London 💂. I am an ex-furniture designer now with big plans to become a Web Developer. I have a basic understanding of Javascript, HTML and CSS and learn something new everyday!
 
-Here are some ideas to get you started:
+I have completed the [**University of Helsinki Java Mooc Part 1**](https://java-programming.mooc.fi/) and am currently working through the Full Stack Open program too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time I like to go climbing 🧗🏼‍♂️ and walking, to read 📚, watch crime dramas 📺 and watch films 🎞️.
+## Current Status <img src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="50"> 
+
+I am currently applying to the [**Founders and Coders**](https://www.foundersandcoders.com/) program. You can view my application website [here](http://cemalokten.github.io/).
+
+I am also working my way through the [**Full Stack Open**](https://fullstackopen.com/en/) program.
+
+## Certificates 
+
+* [University of Helsinki MOOC - Java Programming Part 1](https://certificates.mooc.fi/validate/xgg8x6qj2e)
