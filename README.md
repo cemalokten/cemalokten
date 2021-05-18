@@ -6,12 +6,12 @@ I have completed the [**University of Helsinki Java Mooc Part 1**](https://java-
 
 In my free time I like to go climbing 🧗🏼‍♂️ and walking, to read 📚, watch crime dramas 📺 and watch films 🎞️.
 
-## Current Status 
+## Current Status 💻
 
 I am currently applying to the [**Founders and Coders**](https://www.foundersandcoders.com/) program. You can view my application website [here](http://cemalokten.github.io/).
 
 I am also working my way through the [**Full Stack Open**](https://fullstackopen.com/en/) program.
 
-## Certificates 🏆
+### Certificates 🏆
 
 * [University of Helsinki MOOC - Java Programming Part 1](https://certificates.mooc.fi/validate/xgg8x6qj2e)
