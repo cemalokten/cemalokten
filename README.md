@@ -4,7 +4,7 @@ I’m Cemal (Je-mal), I live in South London. I am an ex-furniture designer, now
 
 I have completed the [**University of Helsinki Java Mooc Part 1**](https://java-programming.mooc.fi/) and am currently working on my application for Founders and Coders 2021 Autumn cohort 🍁.
 
-In my free time I like to go climbing 🧗🏼‍♂️, walking with my dog 🐕‍🦺, I like read 📚, watch crime dramas 📺 and take photographs 📷.
+In my free time I like to go climbing 🧗🏼‍♂️, walking with my dog 🐕‍🦺, read books 📚, watch crime dramas 📺 and take photographs 📷.
 
 ### Current Status 💻
 
