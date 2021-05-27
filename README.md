@@ -2,13 +2,11 @@
 
 I’m Cemal (Je-mal), I live in South London. I am an ex-furniture designer, now with plans to become a Web Developer. I have a basic understanding of `Javascript`, `HTML` and `CSS` and learn something new everyday!
 
-I have completed the [**University of Helsinki Java Mooc Part 1**](https://java-programming.mooc.fi/) and am currently working on my application for Founders and Coders 2021 Autumn cohort 🍁.
+I have completed the [**University of Helsinki Java Mooc Part 1**](https://java-programming.mooc.fi/) 
+
+I am currently applying to the [**Founders and Coders**](https://www.foundersandcoders.com/) 2021 Autumn cohort 🍁. You can view my application website repo [**here**](https://github.com/cemalokten/fac-application-website).
 
 In my free time I like to go climbing 🧗🏼‍♂️, walking with my dog 🐕‍🦺, read books 📚, watch crime dramas 📺 and take photographs 📷.
-
-### Current Status 💻
-
-I am currently applying to the [**Founders and Coders**](https://www.foundersandcoders.com/) program. You can view my application website repo [**here**](https://github.com/cemalokten/fac-application-website).
 
 ### Certificates 🏆
 
