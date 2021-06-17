@@ -1,6 +1,6 @@
  <img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="200"> 
 
-I’m Cemal (Je-mal), I live in South London. I am an ex-furniture designer, now with plans to become a Web Developer. I have a basic understanding of `Javascript`, `HTML` and `CSS` and learn something new everyday!
+I’m Cemal (Je-mal), I live in South London. I am an ex-furniture designer, now with plans to become a Web Developer. I have an understanding of `Javascript`, `HTML` and `CSS` and learn something new everyday!
 
 I have completed the [**University of Helsinki Java Mooc Part 1**](https://java-programming.mooc.fi/) 
 
