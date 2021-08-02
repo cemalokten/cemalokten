@@ -30,4 +30,4 @@ I will be documenting my journey from zero to developer and my time at Founders 
 * [Twitter](https://twitter.com/cemalokten)
 
 ### Stats 🧪
-[![Stats](https://github-readme-stats.vercel.app/api?username=cemalokten&show_icons=false&hide_border=true&hide_title=true&custom_title='hello')](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=cemalokten&show_icons=false&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
