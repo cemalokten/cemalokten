@@ -29,4 +29,4 @@ I will be documenting my journey from zero to developer and my time at Founders 
 * [CodeWars](https://www.codewars.com/users/cemalokten)
 * [Twitter](https://twitter.com/cemalokten)
 
-[![](https://github-readme-stats.vercel.app/api?username=cemalokten&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=cemalokten&theme=graywhite)]
