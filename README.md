@@ -8,7 +8,7 @@ I am part of `Founders and Coders` Autumn Cohort and am currently working throug
 
 I have basic understanding of `Javascript`, `HTML` and `CSS` and learn something new everyday! 
 
-You can checkout my **portfolio site** [here](https://cemalokten.github.io/).
+You can checkout my `Portfolio site` [here](https://cemalokten.github.io/).
 
 In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and make things 🔨.
 
@@ -18,7 +18,7 @@ In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and mak
 |--------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Portfolio Site 👀      | Portfolio of projects to date                                | [REPO](https://github.com/cemalokten/cemalokten.github.io) / [DEPLOYED](https://cemalokten.github.io/) |
 | Weather Front 🌧️        | Compare the weather in two Cities `API`                         | [REPO](https://github.com/cemalokten/weather-front) / [DEPLOYED](https://cemalokten.github.io/weather-front/) |
-| Where is ISS? 🛰️        | Where is the International Space Station? Land or Sea? `API`       | [REPO](https://github.com/cemalokten/where-is-iss) / [DEPLOYED](https://cemalokten.github.io/where-is-iss/) |
+| Where is ISS? 🛰️        | Where is the International Space Station? Over Land or Sea? `API`       | [REPO](https://github.com/cemalokten/where-is-iss) / [DEPLOYED](https://cemalokten.github.io/where-is-iss/) |
 | Space is the Place 🪐        | Latest images from the Mars rovers `API`       | [REPO](https://github.com/fac22/space-is-the-place) / [DEPLOYED](https://fac22.github.io/space-is-the-place/) |
 | Temporary Artworks 🎨    | Randomly generated pages of colourful squares                | [REPO](https://github.com/cemalokten/temporary-artworks) / [DEPLOYED](https://cemalokten.github.io/temporary-artworks/) |
 | kindCode Agency Site 🧱  | Imaginary agency site                                        | [REPO](https://github.com/fac22/kindcode) / [DEPLOYED](https://fac22.github.io/kindcode/) |
