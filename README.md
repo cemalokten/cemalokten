@@ -2,11 +2,11 @@
 
 Hi my name is Cemal (Je-mal), I am a web developer in the making. Once upon a time I worked in the design industry, designing furniture and products. 
 
-Lately, I've been learning how to solve problems with lines of code instead of pieces of wood.
+Lately, I've been learning how to solve problems with lines of code instead of pieces of wood. You can checkout my portfolio site [here](https://cemalokten.github.io/)!
 
 I am part of `Founders and Coders` Autumn Cohort and am currently working through the pre-apprenticeship. 
 
-I have basic understanding of `Javascript`, `HTML` and `CSS` and learn something new everyday!
+I have basic understanding of `Javascript`, `HTML` and `CSS` and learn something new everyday! 
 
 In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and make things 🔨.
 
