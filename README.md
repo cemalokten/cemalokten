@@ -8,7 +8,7 @@ I am part of `Founders and Coders` Autumn Cohort and am currently working throug
 
 I have basic understanding of `Javascript`, `HTML` and `CSS` and learn something new everyday! 
 
-You can checkout my [`Portfolio site here`](https://cemalokten.github.io/).
+You can checkout my [`Portfolio site here`](https://cemalokten.github.io/)
 
 In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and make things 🔨.
 
