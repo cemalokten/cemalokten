@@ -8,7 +8,7 @@ I am part of `Founders and Coders` Autumn Cohort and am currently working throug
 
 I have basic understanding of `Javascript`, `HTML` and `CSS` and learn something new everyday!
 
-In my free time I like to go climbing 🧗🏼‍♂️, walking with my dog 🐕‍🦺, read books 📚, make things 📺 and take photographs 📷.
+In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and make things 🔨.
 
 ### Latest Projects 📌
 
@@ -22,7 +22,7 @@ In my free time I like to go climbing 🧗🏼‍♂️, walking with my dog �
 | kindCode Agency Site 🧱  | Imaginary agency site                                        | [REPO](https://github.com/fac22/kindcode) / [DEPLOYED](https://fac22.github.io/kindcode/) |
 | Keyboard Glockenspiel 🎹 | A keyboard glockenspiel that plays sounds as you type        | [REPO](https://github.com/cemalokten/keyboard-glockenspiel) / [DEPLOYED](https://cemalokten.github.io/keyboard-glockenspiel/) |
 | Bar Clock ⌚              | Tell the time by counting bars                               | [REPO](https://github.com/cemalokten/bar-clock) / [DEPLOYED](https://cemalokten.github.io/bar-clock/) |
-| Font Style Changer ✏️    | Change the size, tracking and justification of what you type &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [REPO](https://github.com/cemalokten/font-style-changer) / [DEPLOYED](https://cemalokten.github.io/font-style-changer/) |
+| Font Style Changer ✏️    | Change the size, tracking and justification of what you type &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [REPO](https://github.com/cemalokten/font-style-changer) / [DEPLOYED](https://cemalokten.github.io/font-style-changer/) |
 | FAC Application Site 💻    | Application site for Founders and Coders Autumn cohort 🍁   | [REPO](https://github.com/cemalokten/fac-application-website) / [DEPLOYED](https://cemalokten.github.io/fac-application-website/) |
 
 
