@@ -14,7 +14,6 @@ I will be documenting my journey from zero to developer and my time at Founders 
 
 ### Latest Projects 📌
 | PROJECT           | REPO / DEPLOYED SITE                                                                                        |
-|-------------------|-------------------------------------------------------------------------------------------------------------|
 | :---         | :---         |  
 | Where is ISS? 🛰️ | [REPO](https://cemalokten.github.io/where-is-iss/) / [DEPLOYED](https://cemalokten.github.io/where-is-iss/) |
 | Where is ISS? 🛰️ | [REPO](https://cemalokten.github.io/where-is-iss/) / [DEPLOYED](https://cemalokten.github.io/where-is-iss/) |
