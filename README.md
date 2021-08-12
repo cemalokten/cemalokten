@@ -14,7 +14,7 @@ In my free time I like to go climbing 🧗🏼‍♂️, walking with my dog �
 
 | Project                  | Description                                                  | Repo / Deployed                                                                                             |
 |--------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Portfolio Site 👀      | Portfolio of projects to date                                | [REPO](https://github.com/cemalokten/cemalokten.github.io) / [DEPLOYED](https://cemalokten.github.io/) |
+| [Portfolio Site 👀](https://cemalokten.github.io/)      | Portfolio of projects to date                                | [REPO](https://github.com/cemalokten/cemalokten.github.io) |
 | Weather Front 🌧️        | Compare the weather in two Cities                            | [REPO](https://github.com/cemalokten/weather-front) / [DEPLOYED](https://cemalokten.github.io/weather-front/) |
 | Where is ISS? 🛰️        | Where is the International Space Station? Land or Sea?       | [REPO](https://github.com/cemalokten/where-is-iss) / [DEPLOYED](https://cemalokten.github.io/where-is-iss/) |
 | Temporary Artworks 🎨    | Randomly generated pages of colourful squares                | [REPO](https://github.com/cemalokten/temporary-artworks) / [DEPLOYED](https://cemalokten.github.io/temporary-artworks/) |
