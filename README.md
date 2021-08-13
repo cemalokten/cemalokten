@@ -6,7 +6,7 @@ Lately, I've been learning how to solve problems with lines of code instead of p
 
 I am part of `Founders and Coders` Autumn Cohort and am currently working through the pre-apprenticeship. 
 
-I have basic understanding of `Javascript`, `HTML` and `CSS` and learn something new everyday! 
+My aim is to become a `full stack` web developer, create projects that matter and learn something new everyday!
 
 You can checkout my [`Portfolio site here`](https://cemalokten.github.io/)
 
