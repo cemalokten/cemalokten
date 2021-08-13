@@ -1,6 +1,8 @@
  <img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="200"> 
 
-Hi my name is Cemal (Je-mal), I am a web developer in the making. Once upon a time I worked in the design industry, designing furniture and products. 
+Hi my name is Cemal (Je-mal), I am a web developer in the making. 
+
+Once upon a time I worked in the design industry, designing furniture and products. 
 
 Lately, I've been learning how to solve problems with lines of code instead of pieces of wood. 
 
