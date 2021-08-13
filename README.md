@@ -22,7 +22,7 @@ In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and mak
 | Weather Front 🌧️        | Compare the weather in two Cities `API`                         | [REPO](https://github.com/cemalokten/weather-front) / [DEPLOYED](https://cemalokten.github.io/weather-front/) |
 | Where is ISS? 🛰️        | Where is the International Space Station? Over Land or Sea? `API`       | [REPO](https://github.com/cemalokten/where-is-iss) / [DEPLOYED](https://cemalokten.github.io/where-is-iss/) |
 | Temporary Artworks 🎨    | Randomly generated pages of colourful squares                | [REPO](https://github.com/cemalokten/temporary-artworks) / [DEPLOYED](https://cemalokten.github.io/temporary-artworks/) |
-| kindCode Agency Site 🧱  | Imaginary agency site                                        | [REPO](https://github.com/fac22/kindcode) / [DEPLOYED](https://fac22.github.io/kindcode/) |
+| kindCode Agency Site 🧱  | Collaborated on an Imaginary agency site                                      | [REPO](https://github.com/fac22/kindcode) / [DEPLOYED](https://fac22.github.io/kindcode/) |
 | Keyboard Glockenspiel 🎹 | A keyboard glockenspiel that plays sounds as you type        | [REPO](https://github.com/cemalokten/keyboard-glockenspiel) / [DEPLOYED](https://cemalokten.github.io/keyboard-glockenspiel/) |
 | Bar Clock ⌚              | Tell the time by counting bars                               | [REPO](https://github.com/cemalokten/bar-clock) / [DEPLOYED](https://cemalokten.github.io/bar-clock/) |
 | Font Style Changer ✏️    | Change the size, tracking and justification of what you type &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [REPO](https://github.com/cemalokten/font-style-changer) / [DEPLOYED](https://cemalokten.github.io/font-style-changer/) |
@@ -42,4 +42,3 @@ In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and mak
 
 ### Stats 🧪
 [![Stats](https://github-readme-stats.vercel.app/api?username=cemalokten&show_icons=false&hide_border=true&hide_title=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-gi
