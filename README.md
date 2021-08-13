@@ -38,7 +38,7 @@ In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and mak
 ### Profile Links 🔗
 
 
-* [Portfolio](https://cemalokten.github.io/))
+* [Portfolio](https://cemalokten.github.io/)
 * [Twitter](https://twitter.com/cemalokten)
 * [LinkedIn](https://www.linkedin.com/in/cemal-okten/)
 * [CodeWars](https://www.codewars.com/users/cemalokten)
