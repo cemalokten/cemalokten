@@ -20,7 +20,7 @@ In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and mak
 
 | Project                  | Description                                                  | Repo / Deployed                                                                                             |
 |--------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Colour Scheme Generator 🔮 | Randomly generate colour schemes, adjust them, rearrange them and share them. | [REPO](https://github.com/cemalokten/mobile-colour-scheme-generator) / [DEPLOYED](https://cemalokten.github.io/mobile-colour-scheme-generator/)
+| Colour Scheme Generator 🔮 | Randomly generate colour schemes | [REPO](https://github.com/cemalokten/mobile-colour-scheme-generator) / [DEPLOYED](https://cemalokten.github.io/mobile-colour-scheme-generator/)
 | Portfolio Site 👀      | Portfolio of projects to date                                | [REPO](https://github.com/cemalokten/cemalokten.github.io) / [DEPLOYED](https://cemalokten.github.io/) |
 | Weather Front 🌧️        | Compare the weather in two Cities `API`                         | [REPO](https://github.com/cemalokten/weather-front) / [DEPLOYED](https://cemalokten.github.io/weather-front/) |
 | Where is ISS? 🛰️        | Where is the International Space Station? Over Land or Sea? `API`       | [REPO](https://github.com/cemalokten/where-is-iss) / [DEPLOYED](https://cemalokten.github.io/where-is-iss/) |
