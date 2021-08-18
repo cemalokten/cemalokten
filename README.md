@@ -28,8 +28,7 @@ In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and mak
 | Temporary Artworks 🎨    | Randomly generated pages of colourful squares                | [REPO](https://github.com/cemalokten/temporary-artworks) / [DEPLOYED](https://cemalokten.github.io/temporary-artworks/) |
 | kindCode Agency Site 🧱  | Collaborated on an imaginary agency site with [@lopezelpesado](https://github.com/lopezelpesado)                             | [REPO](https://github.com/fac22/kindcode) / [DEPLOYED](https://fac22.github.io/kindcode/) |
 | Keyboard Glockenspiel 🎹 | A keyboard glockenspiel that plays sounds as you type        | [REPO](https://github.com/cemalokten/keyboard-glockenspiel) / [DEPLOYED](https://cemalokten.github.io/keyboard-glockenspiel/) |
-| Bar Clock ⌚              | Tell the time by counting bars                               | [REPO](https://github.com/cemalokten/bar-clock) / [DEPLOYED](https://cemalokten.github.io/bar-clock/) |
-| Font Style Changer ✏️    | Change the size, tracking and justification of what you type &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [REPO](https://github.com/cemalokten/font-style-changer) / [DEPLOYED](https://cemalokten.github.io/font-style-changer/) |
+| Bar Clock ⌚              | Tell the time by counting bars &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              | [REPO](https://github.com/cemalokten/bar-clock) / [DEPLOYED](https://cemalokten.github.io/bar-clock/) |
 | FAC Application Site 💻    | Application site for Founders and Coders Autumn cohort 🍁   | [REPO](https://github.com/cemalokten/fac-application-website) / [DEPLOYED](https://cemalokten.github.io/fac-application-website/) |
 
 
