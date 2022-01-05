@@ -30,9 +30,9 @@ In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and mak
 | FAC Application Site 💻    | Application site for Founders and Coders Autumn cohort 🍁   | [REPO](https://github.com/cemalokten/fac-application-website) / [DEPLOYED](https://cemalokten.github.io/fac-application-website/) |
 
 
-### Certificates 🏆
+### Achievements & Certificates 🏆
 
-* Graduate of Founders and Coders (22nd Cohort)
+* [Founders and Coders Graduate (FAC22)[(https://www.foundersandcoders.com/)
 * [University of Helsinki MOOC - Java Programming Part 1](https://certificates.mooc.fi/validate/xgg8x6qj2e)
 
 ### Profile Links 🔗
