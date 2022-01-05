@@ -1,6 +1,6 @@
  <img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="200"> 
 
-Hi my name is Cemal (Je-mal), I am a Junior Web Developer at Yalla Coop.
+Hi my name is Cemal (Je-mal), I am a Junior Web Developer at [`Yalla Coop`](https://github.com/yalla-coop/)
 
 Once upon a time I worked in the design industry, designing furniture and products. 
 
@@ -32,8 +32,8 @@ In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and mak
 
 ### Achievements & Certificates 🏆
 
-* [Founders and Coders Graduate (FAC22)[(https://www.foundersandcoders.com/)
-* [University of Helsinki MOOC - Java Programming Part 1](https://certificates.mooc.fi/validate/xgg8x6qj2e)
+* [`Founders and Coders Graduate (FAC22)`](https://www.foundersandcoders.com/)
+* [`University of Helsinki MOOC - Java Programming Part 1`](https://certificates.mooc.fi/validate/xgg8x6qj2e)
 
 ### Profile Links 🔗
 
