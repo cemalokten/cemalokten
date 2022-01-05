@@ -1,22 +1,20 @@
  <img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="200"> 
 
-Hi my name is Cemal (Je-mal), I am a web developer in the making. 
+Hi my name is Cemal (Je-mal), I am a Junior Web Developer at Yalla Coop.
 
 Once upon a time I worked in the design industry, designing furniture and products. 
 
 Lately, I've been learning how to solve problems with lines of code instead of pieces of wood. 
 
-I am part of `Founders and Coders` Autumn Cohort and am currently working through the pre-apprenticeship. 
+I graduated from the `Founders and Coders` bootcamp in 2021 and started at Yalla Coop soon after.
 
-My aim is to become a `full stack` web developer, create projects that matter and learn something new everyday!
+My aim is to create projects that matter and learn something new everyday!
 
 You can checkout my [`Portfolio site here`](https://cemalokten.github.io/)
 
 In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and make things 🔨.
 
 ### Latest Projects 📌
-
-
 
 | Project                  | Description                                                  | Repo / Deployed                                                                                             |
 |--------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
@@ -34,10 +32,10 @@ In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and mak
 
 ### Certificates 🏆
 
+* Graduate of Founders and Coders (22nd Cohort)
 * [University of Helsinki MOOC - Java Programming Part 1](https://certificates.mooc.fi/validate/xgg8x6qj2e)
 
 ### Profile Links 🔗
-
 
 * [Portfolio](https://cemalokten.github.io/)
 * [Twitter](https://twitter.com/cemalokten)
