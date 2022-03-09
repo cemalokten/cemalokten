@@ -1,6 +1,6 @@
  <img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="200"> 
 
-Hi my name is Cemal (Je-mal), I am a Apprentice Web Developer at [`Yalla Coop`](https://github.com/yalla-coop/)
+Hi my name is Cemal (Je-mal), I am an Apprentice Web Developer at [`Yalla Coop`](https://github.com/yalla-coop/)
 
 Once upon a time I worked in the design industry, designing furniture and products. 
 
