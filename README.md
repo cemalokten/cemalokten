@@ -19,7 +19,7 @@ In my free time I like to climb, take photographs and make things.
 | Keyboard Glockenspiel | A keyboard glockenspiel that plays sounds as you type        | [REPO](https://github.com/cemalokten/keyboard-glockenspiel) / [DEPLOYED](https://cemalokten.github.io/keyboard-glockenspiel/) |
 | Bar Clock              | Tell the time by counting bars &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              | [REPO](https://github.com/cemalokten/bar-clock) / [DEPLOYED](https://cemalokten.github.io/bar-clock/) |
 
-### Skills
+### Languages, frameworks and libraries
 `Javascript` `Typescript` `Express` `Redux` `React` `React Native` 
 `GraphQL` `Postgres` `JS-in-CSS` `CSS` `GIT` `VIM` `Jest` `Playwright`
 
