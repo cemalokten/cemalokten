@@ -31,7 +31,7 @@ In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and mak
 
 
 ### Achievements & Certificates 🏆
-
+* [`Distinction grade - Level 4 Software Developer Apprenticeship`](https://www.bcs.org/develop-your-people/develop-your-team-or-organisation/digital-it-apprenticeships-for-your-team/offer-our-apprenticeships-standards/software-developer/)
 * [`Founders and Coders Graduate (FAC22)`](https://www.foundersandcoders.com/)
 * [`University of Helsinki MOOC - Java Programming Part 1`](https://certificates.mooc.fi/validate/xgg8x6qj2e)
 
@@ -39,6 +39,3 @@ In my free time I like to climb 🧗🏼‍♂️, take photographs 📷 and mak
 
 * [`Portfolio`](https://cem.al/)
 * [`LinkedIn`](https://www.linkedin.com/in/cemal-okten/)
-
-### Stats 🧪
-[![Stats](https://github-readme-stats.vercel.app/api?username=cemalokten&show_icons=false&hide_border=true&hide_title=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
