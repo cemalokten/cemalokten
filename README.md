@@ -28,7 +28,7 @@ In my free time I like to climb, take photographs and make things.
 * [`Founders and Coders Graduate (FAC22)`](https://www.foundersandcoders.com/)
 * [`University of Helsinki MOOC - Java Programming Part 1`](https://certificates.mooc.fi/validate/xgg8x6qj2e)
 
-### Profile Links
+### Links
 
 * [`Portfolio`](https://cem.al/)
 * [`LinkedIn`](https://www.linkedin.com/in/cemal-okten/)
