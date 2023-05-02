@@ -1,3 +1,4 @@
+### About
 Hi my name is Cemal (Je-mal), I am a Junior full stack developer at [`Yalla Coop`](https://github.com/yalla-coop/)
 
 I graduated from the `Founders and Coders` bootcamp in 2021 and started at Yalla Coop as an apprentice soon after; I have recently graduated from the `Level 4 Software Developer apprenticeship` with a grade of `distinction`.
