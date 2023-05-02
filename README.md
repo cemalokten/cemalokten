@@ -13,6 +13,7 @@ In my free time I like to climb, take photographs and make things.
 |--------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Sweater CLI | Outputs suitable clothing depending on your location, written in Go | [REPO](https://github.com/cemalokten/sweater-cli)
 | React Native todo list  | Simple todo list for iOS and Android | [REPO](https://github.com/cemalokten/react-native-todo-list)
+| Helix editor theme  | Jellybeans theme for Helix modal editor | [REPO](https://github.com/helix-editor/helix/pull/5719)
 | Colour Scheme Generator | Randomly generate colour schemes | [REPO](https://github.com/cemalokten/mobile-colour-scheme-generator) / [DEPLOYED](https://cemalokten.github.io/mobile-colour-scheme-generator/)
 | Where is ISS?       | Where is the International Space Station? Over Land or Sea? `API`       | [REPO](https://github.com/cemalokten/where-is-iss) / [DEPLOYED](https://cemalokten.github.io/where-is-iss/) |
 | Temporary Artworks | Randomly generated pages of colourful squares                | [REPO](https://github.com/cemalokten/temporary-artworks) / [DEPLOYED](https://cemalokten.github.io/temporary-artworks/) |
