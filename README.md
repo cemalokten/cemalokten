@@ -20,8 +20,8 @@ In my free time I like to climb, take photographs and make things.
 | Bar Clock              | Tell the time by counting bars &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              | [REPO](https://github.com/cemalokten/bar-clock) / [DEPLOYED](https://cemalokten.github.io/bar-clock/) |
 
 ### Skills
-`Javascript`, `Typescript`, `Express`, `Redux`, `React`, `React Native`, `GraphQL`, `Postgres`,
-`JS-in-CSS`, `CSS`, `GIT`, `VIM`, `Jest`, `Playwright`
+`Javascript`, `Typescript`, `Express`, `Redux`, `React`, `React Native`, 
+`GraphQL`, `Postgres`, `JS-in-CSS`, `CSS`, `GIT`, `VIM`, `Jest`, `Playwright`
 
 ### Achievements & Certificates
 * [`Distinction - Level 4 Software Developer Apprenticeship`](https://www.bcs.org/develop-your-people/develop-your-team-or-organisation/digital-it-apprenticeships-for-your-team/offer-our-apprenticeships-standards/software-developer/)
