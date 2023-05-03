@@ -21,7 +21,7 @@ In my free time I like to climb, take photographs and make things.
 | Bar Clock              | Tell the time by counting bars &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              | [REPO](https://github.com/cemalokten/bar-clock) / [DEPLOYED](https://cemalokten.github.io/bar-clock/) |
 
 ### Languages, frameworks and libraries
-`Javascript` `Typescript` `Express` `Redux` `React` `React Native` 
+`Javascript` `Typescript` `Node.js` `Express` `Redux` `React` `React Native` 
 `GraphQL` `Postgres` `JS-in-CSS` `CSS` `GIT` `VIM` `Jest` `Playwright`
 
 ### Achievements & Certificates
