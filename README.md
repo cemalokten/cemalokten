@@ -32,7 +32,4 @@ You can see my portfolio site [`here`](https://cem.al)
 * [`Portfolio`](https://cem.al/)
 * [`LinkedIn`](https://www.linkedin.com/in/cemal-okten/)
 
-
-[![Page size](https://badge-server.fly.dev/api/size/https%3A%2F%2Fgithub.com%2Fcemalokten%2F/green)](https://github.com/cemalokten/)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/75594e3a-afe6-4cfd-ae17-146ce9f02466/deploy-status)](https://app.netlify.com/sites/benevolent-muffin-8dc75e/deploys)
+[![Page-size Badge](https://page-size.fly.dev/api/size/https%3A%2F%2Fgithub.com%2Fcemalokten%2F/blue)](http://www.page-size.com)
