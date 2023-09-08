@@ -35,3 +35,5 @@ You can see my portfolio site [`here`](https://cem.al)
 [![Page-size Badge](https://page-size.fly.dev/api/size/https%3A%2F%2Fcem.al/green)](http://www.page-size.com)
 
 [![Page-size Badge](https://page-size.fly.dev/api/size/https%3A%2F%2Fgithub.com%2Fcemalokten/darkgreen)](http://www.page-size.com)
+
+[![Page-size Badge](https://page-size.fly.dev/api/size/https%3A%2F%2Flearning.edx.org%2Fcourse%2Fcourse-v1%3AUBCx%2BHtC1x%2B2T2017%2Fhome/green)](http://www.page-size.com)
