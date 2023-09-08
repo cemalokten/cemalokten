@@ -33,3 +33,5 @@ You can see my portfolio site [`here`](https://cem.al)
 * [`LinkedIn`](https://www.linkedin.com/in/cemal-okten/)
 
 [![Page-size Badge](https://page-size.fly.dev/api/size/https%3A%2F%2Fcem.al/green)](http://www.page-size.com)
+
+[![Page-size Badge](https://page-size.fly.dev/api/size/https%3A%2F%2Fgithub.com%2Fcemalokten/green)](http://www.page-size.com)
