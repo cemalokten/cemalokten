@@ -9,7 +9,7 @@ You can see my portfolio site [`here`](https://cem.al)
 
 | Project                  | Description                                                  | Repo / Deployed                                                                                             |
 |--------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Page Size | API service that generates an SVG badge with the size of your webpage | [REPO](https://github.com/cemalokten/page-size) / [DEPLOYED](https://page-size.com/)|
+| Page Size | API that generates an SVG badge with the size of your webpage | [REPO](https://github.com/cemalokten/page-size) / [DEPLOYED](https://page-size.com/)|
 | Sweater CLI | Outputs suitable clothing depending on your location, written in Go | [REPO](https://github.com/cemalokten/sweater-cli)
 | React Native todo list  | Simple todo list for iOS and Android | [REPO](https://github.com/cemalokten/react-native-todo-list)
 | Helix editor theme  | Jellybeans theme for Helix modal editor | [REPO](https://github.com/helix-editor/helix/pull/5719)
