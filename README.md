@@ -1,5 +1,5 @@
 ### About
-Hi my name is Alexander, I am a full stack developer at [`Yalla Coop`](https://github.com/yalla-coop/)
+Hi my name is Cemal, I am a full stack developer at [`Yalla Coop`](https://github.com/yalla-coop/)
 
 I graduated from the `Founders and Coders` bootcamp in 2021 and started at Yalla Coop as a Junior Developer soon after; I have recently graduated from the `Level 4 Software Developer apprenticeship` with a grade of `distinction`.
 
